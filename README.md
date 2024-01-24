@@ -1,5 +1,6 @@
 # Bash_Scripts
 Some Useful Practical Scripts that Would facilitate Using Linux
+`Note That : all scripts MUST be executable`
 ## What This Scripts Do !?
 
 * First script
