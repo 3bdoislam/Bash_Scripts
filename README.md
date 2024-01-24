@@ -7,7 +7,7 @@ Some Useful Practical Scripts that Would facilitate Using Linux
 * First script
     * takes a file path as input and displays information about the file, such as its size, type, and permissions.
   
-    * * ./first.sh /path/of/the/file
+      ```./first.sh /path/of/the/file```
       
 * Second Script
     * automate backups for /home directory
@@ -22,7 +22,7 @@ Some Useful Practical Scripts that Would facilitate Using Linux
       5. disconnect from openVPN
       6. script has a verbosity so it prints every check, process arguments and you can any thing that may facilitate all this           for you.
          
-      *** ./third.sh -h ---> to view options
+      ```./third.sh -h ---> to view options```
          
 * Fourth Script
     * File Analysis Script :
@@ -33,7 +33,7 @@ Some Useful Practical Scripts that Would facilitate Using Linux
     * Tools to Utilize
     * ExifTool, Mediainfo, Tcpdump, Strings ………..
       
-    * * ./fourth <directory>
+      ```./fourth <directory>```
       
 * Fifth Script
     #### This script is capable of:
@@ -41,14 +41,14 @@ Some Useful Practical Scripts that Would facilitate Using Linux
     * Enable the customization of password criteria based on specified complexity requirements,
     * allowing the generation of passwords tailored to those criteria given by arguments .
       
-      *** ./fifth.sh --> to view oprions
+      ```./fifth.sh --> to view oprions```
       
 * Sixth Script
     * This script reads a list of domains from a text file,
     * then enumerates their subdomains using multiple tools with the ability to specify the number of iterations,
     * After that, it saves the unique results to a file and counts them.
       
-      *** ./sixth.sh ---> to view options
+      ```./sixth.sh ---> to view options```
 
 #### Topics related: subdomain enumeration
 ##### Tools included: amass, subfinder, wc, sort
